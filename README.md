@@ -1,2 +1,9 @@
-# bd_mer_der_aula02
-atividade de backend, aula 02 (acho que o nome já diz)
+<div align="center">
+Aula de Backend 02
+  <br>
+Planilhas e Diagramas
+<br/>
+<div align="center">
+  <a href="https://github.com/Gengiscana/S.I.N.A">
+    <img src="papoi.drawio.png" alt="image" width="600">
+  </a>
